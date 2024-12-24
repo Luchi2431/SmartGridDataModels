@@ -1,0 +1,287 @@
+3/18/2024 5:00:14 PM : Network Model Service Test Client is up and running...
+3/18/2024 5:00:14 PM : Result directory: ../Results
+3/18/2024 5:00:25 PM : Getting values method started.
+3/18/2024 5:00:25 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 5:00:25 PM : Getting values method for entered id = 1 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 5:00:32 PM : Getting extent values method started.
+3/18/2024 5:00:36 PM : Getting extent values method failed for SWITCH.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0914623. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+3/18/2024 5:00:53 PM : Network Model Service Test Client stopped.
+3/18/2024 5:10:50 PM : Network Model Service Test Client is up and running...
+3/18/2024 5:10:50 PM : Result directory: ../Results
+3/18/2024 5:10:55 PM : Getting values method started.
+3/18/2024 5:10:55 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 5:10:55 PM : Getting values method for entered id = 31231 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 5:11:00 PM : Getting extent values method started.
+3/18/2024 5:11:01 PM : Getting extent values method successfully finished.
+3/18/2024 5:14:40 PM : Network Model Service Test Client is up and running...
+3/18/2024 5:14:40 PM : Result directory: ../Results
+3/18/2024 5:14:43 PM : Getting extent values method started.
+3/18/2024 5:14:44 PM : Getting extent values method successfully finished.
+3/18/2024 5:23:38 PM : Network Model Service Test Client is up and running...
+3/18/2024 5:23:38 PM : Result directory: ../Results
+3/18/2024 5:23:41 PM : Getting extent values method started.
+3/18/2024 5:23:42 PM : Getting extent values method successfully finished.
+3/18/2024 5:24:35 PM : Network Model Service Test Client is up and running...
+3/18/2024 5:24:35 PM : Result directory: ../Results
+3/18/2024 5:24:41 PM : Getting extent values method started.
+3/18/2024 5:24:41 PM : Getting extent values method successfully finished.
+3/18/2024 6:02:15 PM : Network Model Service Test Client is up and running...
+3/18/2024 6:02:15 PM : Result directory: ../Results
+3/18/2024 6:02:59 PM : Network Model Service Test Client is up and running...
+3/18/2024 6:02:59 PM : Result directory: ../Results
+3/18/2024 6:03:04 PM : Entering Model Code failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputModelCode() in C:\Users\Zdravo\OneDrive\Desktop\projekatmodeli\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 213
+3/18/2024 6:03:04 PM : GetExtentValues failed. Input string was not in a correct format.
+3/18/2024 6:03:06 PM : Getting extent values method started.
+3/18/2024 6:03:07 PM : Getting extent values method successfully finished.
+3/18/2024 6:04:09 PM : Network Model Service Test Client is up and running...
+3/18/2024 6:04:09 PM : Result directory: ../Results
+3/18/2024 6:04:31 PM : Getting extent values method started.
+3/18/2024 6:05:46 PM : Getting extent values method successfully finished.
+3/18/2024 6:07:35 PM : Network Model Service Test Client is up and running...
+3/18/2024 6:07:35 PM : Result directory: ../Results
+3/18/2024 6:07:56 PM : Entering Model Code failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputModelCode() in C:\Users\Zdravo\OneDrive\Desktop\projekatmodeli\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 213
+3/18/2024 6:07:56 PM : GetExtentValues failed. Input string was not in a correct format.
+3/18/2024 6:08:02 PM : Entering entity id failed. Please use hex (0x) or decimal format.
+3/18/2024 6:08:02 PM : GetValues failed. Input string was not in a correct format.
+3/18/2024 6:09:12 PM : Network Model Service Test Client stopped.
+3/18/2024 6:09:39 PM : Network Model Service Test Client is up and running...
+3/18/2024 6:09:39 PM : Result directory: ../Results
+3/18/2024 6:09:43 PM : Getting values method started.
+3/18/2024 6:09:43 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 6:09:43 PM : Getting values method for entered id = 1454662679641194496 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 6:10:24 PM : Getting values method started.
+3/18/2024 6:10:24 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 6:10:24 PM : Getting values method for entered id = 1152921504606846976 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 6:10:29 PM : Getting extent values method started.
+3/18/2024 6:10:29 PM : Getting extent values method successfully finished.
+3/18/2024 6:11:14 PM : Getting values method started.
+3/18/2024 6:11:14 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 6:11:14 PM : Getting values method for entered id = 1454662679641194753 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/18/2024 6:11:23 PM : Getting extent values method started.
+3/18/2024 6:11:23 PM : Getting extent values method successfully finished.
+3/18/2024 6:33:29 PM : Network Model Service Test Client is up and running...
+3/18/2024 6:33:29 PM : Result directory: ../Results
+3/18/2024 6:33:31 PM : Getting extent values method started.
+3/18/2024 6:33:31 PM : Getting extent values method successfully finished.
+3/21/2024 3:58:18 PM : Network Model Service Test Client is up and running...
+3/21/2024 3:58:18 PM : Result directory: ../Results
+3/21/2024 3:58:30 PM : Getting extent values method started.
+3/21/2024 3:58:30 PM : Getting extent values method successfully finished.
+3/21/2024 3:58:59 PM : Getting extent values method started.
+3/21/2024 4:11:14 PM : Network Model Service Test Client is up and running...
+3/21/2024 4:11:14 PM : Result directory: ../Results
+3/21/2024 4:11:16 PM : Getting extent values method started.
+3/21/2024 4:11:16 PM : Getting extent values method successfully finished.
+3/21/2024 4:11:59 PM : Getting extent values method started.
+3/21/2024 4:11:59 PM : Getting extent values method successfully finished.
+3/21/2024 4:47:29 PM : Network Model Service Test Client is up and running...
+3/21/2024 4:47:29 PM : Result directory: ../Results
+3/21/2024 4:47:31 PM : Getting extent values method started.
+3/21/2024 4:47:31 PM : Getting extent values method successfully finished.
+3/21/2024 4:47:59 PM : Getting extent values method started.
+3/21/2024 4:47:59 PM : Getting extent values method successfully finished.
+3/21/2024 4:48:27 PM : Getting extent values method started.
+3/21/2024 4:48:28 PM : Getting extent values method successfully finished.
+3/21/2024 4:48:38 PM : Getting extent values method started.
+3/21/2024 4:48:38 PM : Getting extent values method successfully finished.
+3/21/2024 4:48:45 PM : Getting extent values method started.
+3/21/2024 4:48:45 PM : Getting extent values method successfully finished.
+3/21/2024 4:48:50 PM : Getting extent values method started.
+3/21/2024 4:48:50 PM : Getting extent values method successfully finished.
+3/21/2024 4:48:56 PM : Getting extent values method started.
+3/21/2024 4:48:56 PM : Getting extent values method successfully finished.
+3/21/2024 4:49:01 PM : Getting extent values method started.
+3/21/2024 4:49:01 PM : Getting extent values method successfully finished.
+3/21/2024 4:49:08 PM : Getting extent values method started.
+3/21/2024 4:49:08 PM : Getting extent values method successfully finished.
+3/21/2024 4:49:13 PM : Getting extent values method started.
+3/21/2024 4:49:13 PM : Getting extent values method successfully finished.
+3/21/2024 4:49:19 PM : Getting extent values method started.
+3/21/2024 4:49:19 PM : Getting extent values method successfully finished.
+3/21/2024 4:51:44 PM : Network Model Service Test Client is up and running...
+3/21/2024 4:51:44 PM : Result directory: ../Results
+3/21/2024 4:51:47 PM : Getting extent values method started.
+3/21/2024 4:51:47 PM : Getting extent values method successfully finished.
+3/21/2024 4:55:03 PM : Getting extent values method started.
+3/21/2024 4:55:03 PM : Getting extent values method successfully finished.
+3/21/2024 5:06:56 PM : Network Model Service Test Client is up and running...
+3/21/2024 5:06:56 PM : Result directory: ../Results
+3/21/2024 5:07:08 PM : Getting extent values method started.
+3/21/2024 5:07:09 PM : Getting extent values method successfully finished.
+3/21/2024 5:08:02 PM : Getting extent values method started.
+3/21/2024 5:08:02 PM : Getting extent values method successfully finished.
+3/21/2024 5:08:17 PM : Getting extent values method started.
+3/21/2024 5:08:17 PM : Getting extent values method successfully finished.
+3/21/2024 5:08:35 PM : Getting extent values method started.
+3/21/2024 5:08:35 PM : Getting extent values method successfully finished.
+3/21/2024 5:08:49 PM : Getting extent values method started.
+3/21/2024 5:08:49 PM : Getting extent values method successfully finished.
+3/21/2024 5:09:00 PM : Getting extent values method started.
+3/21/2024 5:09:00 PM : Getting extent values method successfully finished.
+3/21/2024 5:13:59 PM : Network Model Service Test Client is up and running...
+3/21/2024 5:13:59 PM : Result directory: ../Results
+3/21/2024 5:14:38 PM : Getting extent values method started.
+3/21/2024 5:14:38 PM : Getting extent values method successfully finished.
+3/21/2024 5:15:23 PM : Network Model Service Test Client is up and running...
+3/21/2024 5:15:23 PM : Result directory: ../Results
+3/21/2024 5:16:50 PM : Network Model Service Test Client is up and running...
+3/21/2024 5:16:50 PM : Result directory: ../Results
+3/21/2024 5:17:46 PM : Getting extent values method started.
+3/21/2024 5:17:46 PM : Getting extent values method successfully finished.
+3/21/2024 5:18:15 PM : Network Model Service Test Client is up and running...
+3/21/2024 5:18:15 PM : Result directory: ../Results
+3/21/2024 5:18:54 PM : Getting extent values method started.
+3/21/2024 5:20:04 PM : Getting extent values method successfully finished.
+3/21/2024 5:28:24 PM : Network Model Service Test Client is up and running...
+3/21/2024 5:28:24 PM : Result directory: ../Results
+3/21/2024 5:28:28 PM : Getting extent values method started.
+3/21/2024 5:29:24 PM : Getting extent values method successfully finished.
+3/21/2024 5:30:15 PM : Network Model Service Test Client is up and running...
+3/21/2024 5:30:15 PM : Result directory: ../Results
+3/21/2024 5:30:17 PM : Getting extent values method started.
+3/21/2024 5:30:53 PM : Getting extent values method successfully finished.
+3/22/2024 4:04:11 PM : Network Model Service Test Client is up and running...
+3/22/2024 4:04:11 PM : Result directory: ../Results
+3/22/2024 4:04:13 PM : Getting extent values method started.
+3/22/2024 4:04:13 PM : Getting extent values method successfully finished.
+3/22/2024 4:04:13 PM : Getting related values method started.
+3/22/2024 4:05:21 PM : Network Model Service Test Client is up and running...
+3/22/2024 4:05:21 PM : Result directory: ../Results
+3/22/2024 4:52:24 PM : Network Model Service Test Client is up and running...
+3/22/2024 4:52:24 PM : Result directory: ../Results
+3/22/2024 4:52:45 PM : Entering entity id failed. Please use hex (0x) or decimal format.
+3/22/2024 4:52:45 PM : GetRelatedValues failed. Input string was not in a correct format.
+3/22/2024 4:54:40 PM : Network Model Service Test Client is up and running...
+3/22/2024 4:54:40 PM : Result directory: ../Results
+3/22/2024 4:55:15 PM : Entering association failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputAssociation() in C:\Users\Zdravo\OneDrive\Desktop\projekatmodeli\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 297
+3/22/2024 4:55:15 PM : GetRelatedValues failed. Input string was not in a correct format.
+3/22/2024 5:07:36 PM : Network Model Service Test Client is up and running...
+3/22/2024 5:07:36 PM : Result directory: ../Results
+3/22/2024 5:09:28 PM : Network Model Service Test Client is up and running...
+3/22/2024 5:09:28 PM : Result directory: ../Results
+3/22/2024 5:09:53 PM : Getting related values method started.
+3/22/2024 5:14:01 PM : Network Model Service Test Client is up and running...
+3/22/2024 5:14:01 PM : Result directory: ../Results
+3/22/2024 5:14:06 PM : Getting extent values method started.
+3/22/2024 5:14:06 PM : Getting extent values method successfully finished.
+3/22/2024 5:14:06 PM : Getting related values method started.
+3/22/2024 5:14:06 PM : Getting related values method successfully finished.
+3/22/2024 5:17:13 PM : Network Model Service Test Client is up and running...
+3/22/2024 5:17:13 PM : Result directory: ../Results
+3/22/2024 5:17:50 PM : Getting values method started.
+3/22/2024 5:17:50 PM : Failed to get model type code for DMS type: 4096. Invalid DMS type
+3/22/2024 5:17:50 PM : Getting values method for entered id = 1445954547548946432 failed.
+	Failed to get model type code for DMS type: 4096. Invalid DMS type
+3/22/2024 5:18:20 PM : Getting values method started.
+3/22/2024 5:18:20 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/22/2024 5:18:20 PM : Getting values method for entered id = 1454662679640998657 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/22/2024 5:18:31 PM : Getting values method started.
+3/22/2024 5:18:31 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/22/2024 5:18:31 PM : Getting values method for entered id = 1454662679640998404 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/22/2024 5:18:40 PM : Getting values method started.
+3/22/2024 5:18:40 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/22/2024 5:18:40 PM : Getting values method for entered id = 1445655480385929216 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/22/2024 5:18:52 PM : Getting values method started.
+3/22/2024 5:18:52 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+3/22/2024 5:18:52 PM : Getting values method for entered id = 1450159080013758464 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+3/22/2024 5:24:36 PM : Network Model Service Test Client is up and running...
+3/22/2024 5:24:36 PM : Result directory: ../Results
+3/22/2024 5:24:38 PM : Getting values method started.
+3/22/2024 5:24:38 PM : Getting values method successfully finished.
+3/22/2024 5:41:12 PM : Network Model Service Test Client is up and running...
+3/22/2024 5:41:13 PM : Result directory: ../Results
+3/23/2024 10:51:13 AM : Network Model Service Test Client is up and running...
+3/23/2024 10:51:14 AM : Result directory: ../Results
+3/23/2024 10:51:23 AM : Getting values method started.
+3/23/2024 10:51:23 AM : Getting values method successfully finished.
+3/23/2024 10:51:28 AM : Getting extent values method started.
+3/23/2024 10:51:29 AM : Getting extent values method successfully finished.
+3/23/2024 10:51:35 AM : Getting extent values method started.
+3/23/2024 10:51:35 AM : Getting extent values method successfully finished.
+3/23/2024 10:51:35 AM : Getting related values method started.
+3/23/2024 10:51:36 AM : Getting related values method successfully finished.
+3/23/2024 10:56:42 AM : Network Model Service Test Client is up and running...
+3/23/2024 10:56:42 AM : Result directory: ../Results
+3/23/2024 10:56:45 AM : Getting extent values method started.
+3/23/2024 10:56:45 AM : Getting extent values method successfully finished.
+3/23/2024 10:56:45 AM : Getting related values method started.
+3/23/2024 10:56:45 AM : Getting related values method successfully finished.
+3/23/2024 10:57:05 AM : Getting extent values method started.
+3/23/2024 10:57:05 AM : Getting extent values method successfully finished.
+3/23/2024 10:57:05 AM : Getting related values method started.
+3/23/2024 10:57:06 AM : Getting related values method successfully finished.
+3/23/2024 10:57:10 AM : Getting extent values method started.
+3/23/2024 10:57:10 AM : Getting extent values method successfully finished.
+3/23/2024 10:57:10 AM : Getting related values method started.
+3/23/2024 10:57:11 AM : Getting related values method successfully finished.
+3/23/2024 10:57:15 AM : Getting extent values method started.
+3/23/2024 10:57:15 AM : Getting extent values method successfully finished.
+3/23/2024 10:57:15 AM : Getting related values method started.
+3/23/2024 10:57:15 AM : Getting related values method successfully finished.
+3/23/2024 10:57:28 AM : Getting extent values method started.
+3/23/2024 10:57:29 AM : Getting extent values method successfully finished.
+3/23/2024 10:57:29 AM : Getting related values method started.
+3/23/2024 10:57:29 AM : Getting related values method successfully finished.
+3/23/2024 11:01:57 AM : Network Model Service Test Client is up and running...
+3/23/2024 11:01:57 AM : Result directory: ../Results
+3/23/2024 11:02:01 AM : Getting extent values method started.
+3/23/2024 11:02:02 AM : Getting extent values method successfully finished.
+3/23/2024 11:02:02 AM : Getting related values method started.
+3/23/2024 11:02:02 AM : Getting related values method successfully finished.
+3/23/2024 11:02:16 AM : Getting values method started.
+3/23/2024 11:02:16 AM : Getting values method successfully finished.
+3/23/2024 11:17:36 AM : Network Model Service Test Client is up and running...
+3/23/2024 11:17:36 AM : Result directory: ../Results
+3/23/2024 11:17:40 AM : Entering Model Code failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputModelCode() in C:\Users\Zdravo\OneDrive\Desktop\projekatmodeli\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 256
+3/23/2024 11:17:40 AM : GetExtentValues failed. Input string was not in a correct format.
+3/23/2024 11:17:42 AM : Getting extent values method started.
+3/23/2024 11:17:43 AM : Getting extent values method successfully finished.
+3/23/2024 11:17:47 AM : Network Model Service Test Client stopped.
+3/23/2024 11:18:04 AM : Network Model Service Test Client is up and running...
+3/23/2024 11:18:04 AM : Result directory: ../Results
+3/23/2024 11:18:08 AM : Getting extent values method started.
+3/23/2024 11:18:08 AM : Getting extent values method successfully finished.
+3/23/2024 11:18:15 AM : Getting extent values method started.
+3/23/2024 11:18:15 AM : Getting extent values method successfully finished.
+3/23/2024 11:18:15 AM : Getting related values method started.
+3/23/2024 11:18:15 AM : Getting related values method successfully finished.
+3/23/2024 11:18:32 AM : Getting extent values method started.
+3/23/2024 11:18:32 AM : Getting extent values method successfully finished.
+3/23/2024 11:18:32 AM : Getting related values method started.
+3/23/2024 11:18:32 AM : Getting related values method successfully finished.
+3/23/2024 11:18:37 AM : Getting extent values method started.
+3/23/2024 11:18:37 AM : Getting extent values method successfully finished.
+3/23/2024 11:18:37 AM : Getting related values method started.
+3/23/2024 11:18:37 AM : Getting related values method successfully finished.
+3/23/2024 11:18:54 AM : Getting extent values method started.
+3/23/2024 11:18:54 AM : Getting extent values method successfully finished.
+3/23/2024 11:18:54 AM : Getting related values method started.
+3/23/2024 11:18:54 AM : Getting related values method successfully finished.
+3/23/2024 1:02:16 PM : Network Model Service Test Client is up and running...
+3/23/2024 1:02:16 PM : Result directory: ../Results
